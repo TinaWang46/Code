@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='UTF-8'>
+<title>JSON To HTML</title>
+</head>
+<body>
+<table border=1>
+<thead>
+<tr>
+<th>Patient 1</th>
+<th>Patient 2</th>
+<th>Patient 3</th>
+<th>Patient 4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name of Patient</td>
+ <th>Sam Billy<th><th><th>
+<tr>
+ <td>Organization Name</td>
+ <th>Sea goal<th><th><th>
+ <tr>
+ <td>Gender</td>
+ <th>Unknown<th><th><th>
+ <tr>
+ <td>Number of Conditions they have</td>
+ <th>1<th><th><th>
+ <tr>
+ <td>List of all Conditions</td>
+ <th> No job
+ <th>
+ <th>
+</th>
+</tbody>
+</table>
+</body>
+</html>
