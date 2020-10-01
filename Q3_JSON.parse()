@@ -1,0 +1,38 @@
+//html 
+<head>
+    <meta charset="UTF-8">
+    <title>Patient JSON to HTML</title>
+    <meta name="descriptioon" content="insert file location">
+    <link rel="stylesheet" href="patient.JSON">
+
+
+</head>
+
+<body>
+    <div id="container">
+        <div id="output">Null</div>
+#output {
+    font-size: 24px;
+    background-color:bisque;
+    margin: 0 auto;
+}
+   
+    </div>
+    <script src="script.js"></script>
+</body>
+ 
+</html>
+
+
+
+
+
+
+
+var jcontent = {
+  //import the JSON file 
+}
+
+var output = document.getElementById('output');
+
+output.innerHTML = jcontent.FirstName + ' ' + ; jcontent.LastName; //access object information 
